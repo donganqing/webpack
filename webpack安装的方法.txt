@@ -1,0 +1,3 @@
+ 1.先全局安装	在任意盘里打开命令行，输入  npm install webpack -g
+
+ 2.在进行局部安装	在webpack文件夹里打开命令行，输入  webpack    待安装完了  在输入  webpack install
